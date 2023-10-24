@@ -13,4 +13,4 @@
   <img src="https://telegra.ph//file/09a309d077286dde347a1.jpg">
 </p>
   ━━━━━━━━━━━━━━━━━━━━
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anikalwayspro/CHAT-BOT)
+[![Deploy to heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anikalwayspro/CHAT-BOT)
