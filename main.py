@@ -32,7 +32,7 @@ Mukesh = Client(
     api_hash = API_HASH ,
     bot_token = BOT_TOKEN
 )
-START =f"""
+CSTART =f"""
 **๏ ʜᴇʏ, ɪ ᴀᴍ {BOT_NAME}**
 **➻ᴀɴ ᴀɪ-ʙᴀsᴇᴅ ᴄʜᴀᴛʙᴏᴛ.**
 **──────────────────**
